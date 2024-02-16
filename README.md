@@ -1,4 +1,14 @@
-### Hi there 👋
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Jairo</h1></summary>
+  </ul>
+</div>
+
+<!--About Me-->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <!--
 **Jairogonza7/Jairogonza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
