@@ -9,6 +9,8 @@
   </ul>
 </div>
 
+
+
 <!--About Me-->
 ## <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/about_me.gif" width = 30px></picture> About me
 
