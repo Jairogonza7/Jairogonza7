@@ -32,7 +32,7 @@
   </ul>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,py,java,js,sql&perline=14" />
   </a>
@@ -45,7 +45,7 @@
   </ul>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,nodejs,matlab,figma,github,vscode&perline=14" />
   </a>
@@ -58,7 +58,7 @@
   </ul>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=14" />
   </a>
@@ -90,17 +90,3 @@
  <p align = "center">
 	<a href="https://github.com/jairogonza7/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-<!--
-**Jairogonza7/Jairogonza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
