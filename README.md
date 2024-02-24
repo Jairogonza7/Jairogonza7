@@ -22,9 +22,10 @@
 
 - 📫&nbsp;How to reach me `jairomega19@gmail.com`
 
+## 🛠️ My Skills
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="ceter">
     <summary><h2 style="display: inline-block">Programming languages👨🏻‍💻</h2></summary>
   </ul>
 </div>
