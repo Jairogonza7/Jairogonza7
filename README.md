@@ -45,7 +45,6 @@
   </ul>
 </div>
 
-<!-- icons-->
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,nodejs,matlab,figma,github,vscode&perline=14" />
@@ -59,10 +58,9 @@
   </ul>
 </div>
 
-<!--icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu&perline=14" />
+   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=14" />
   </a>
 </p>
 
@@ -75,12 +73,23 @@
 </div>
 
 <p align="center">
+  &emsp;
  <a href="mailto:jairomega19@gmail.com"> <img img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  &emsp;
  <a href="https://www.instagram.com/Jairogonza7/"> <img img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=%23E1306C" alt="Instagram"></a>
+  &emsp;
  <a href="https://www.facebook.com/Jairogonza7/"> <img img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=instagram&logoColor=white&color=%233b5998" alt="Facebook"></a>
+  &emsp;
  <a href="https://github.com/Jairogonza7"> <img img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
  </p>
- 
+
+ <br>
+
+ ---
+
+ <p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 <!--
 **Jairogonza7/Jairogonza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
