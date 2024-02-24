@@ -49,10 +49,8 @@
 
 <!--Operating Systems-->
 <div id="user-content-toc">
-  <ul align="ceter">
-    <summary><h2 style="display: inline-block">Operating Systems</h2></summary>
-  </ul>
-</div>
+  ### <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/OS.gif" width=5%></picture>Operating Systems
+  
 
 <p align="center">
   <a href="https://skillicons.dev">
