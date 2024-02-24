@@ -44,6 +44,9 @@
 <p align="center">
  <a href="mailto:jairomega19@gmail.com"> <img img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
  <a href="https://github.com/Jairogonza7"> <img img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+ <a href="https://www.instagram.com/Jairogonza7/"> <img img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=%23E1306C" alt="Instagram"></a>
+ 
+
   
 
 
