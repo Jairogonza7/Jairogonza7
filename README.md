@@ -24,29 +24,48 @@
 
 ## 🛠️ My Skills
 <!--h1 without bottom border-->
+
+<!--Programming languages-->
 <div id="user-content-toc">
   <ul align="ceter">
     <summary><h2 style="display: inline-block">Programming languages👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,py,java,js,sql&perline=14" />
   </a>
 </p>
 
+<!--Software & Tools-->
 <div id="user-content-toc">
   <ul align="ceter">
     <summary><h2 style="display: inline-block">Software & Tools</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+<!-- icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,mariadb,nodejs,matlab,figma,github,vscode&perline=14" />
+   <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,nodejs,matlab,figma,github,vscode&perline=14" />
   </a>
 </p>
+
+<!--Operating Systems-->
+<div id="user-content-toc">
+  <ul align="ceter">
+    <summary><h2 style="display: inline-block">Operating Systems</h2></summary>
+  </ul>
+</div>
+
+<!--icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu&perline=14" />
+  </a>
+</p>
+
 
 <!-- Connect with me -->
 <div id="user-content-toc">
