@@ -35,7 +35,19 @@
    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,py,java,js,sql&perline=14" />
   </a>
 </p>
-<!--git,mysql,mongodb,nodejs,matlab,figma,github,vscode>
+
+<div id="user-content-toc">
+  <ul align="ceter">
+    <summary><h2 style="display: inline-block">Software & Tools</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,mariadb,nodejs,matlab,figma,github,vscode&perline=14" />
+  </a>
+</p>
+
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
