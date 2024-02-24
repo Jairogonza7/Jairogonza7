@@ -24,33 +24,31 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Programming languages👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,py,java,js,git,mysql,mongodb,nodejs,matlab,figma,github,discord,linux,vscode&perline=14" />
+   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,py,java,js,sql&perline=14" />
   </a>
 </p>
-
+<!--git,mysql,mongodb,nodejs,matlab,figma,github,vscode>
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
+
 <p align="center">
  <a href="mailto:jairomega19@gmail.com"> <img img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
- <a href="https://github.com/Jairogonza7"> <img img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
  <a href="https://www.instagram.com/Jairogonza7/"> <img img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=%23E1306C" alt="Instagram"></a>
+ <a href="https://www.facebook.com/Jairogonza7/"> <img img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=instagram&logoColor=white&color=%233b5998" alt="Facebook"></a>
+ <a href="https://github.com/Jairogonza7"> <img img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+ </p>
  
-
-  
-
-
-
 <!--
 **Jairogonza7/Jairogonza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
