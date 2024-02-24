@@ -29,27 +29,19 @@
 ## 🛠️ My Skills
 <!--h1 without bottom border-->
 
-<!--Programming languages-->
-<div id="user-content-toc">
-  <ul align="ceter">
-    <summary><h2 style="display: inline-block">Programming languages👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+### <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/Programming_Languages.gif" width=5%></picture> Programming Languages
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,py,java,js,sql&perline=14" />
   </a>
 </p>
 
 <!--Software & Tools-->
-<div id="user-content-toc">
-  <ul align="ceter">
-    <summary><h2 style="display: inline-block">Software & Tools</h2></summary>
-  </ul>
-</div>
+### <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/Programming_Languages.gif" width=5%></picture> Software & Tools
+ 
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,nodejs,matlab,figma,github,vscode&perline=14" />
   </a>
@@ -62,7 +54,7 @@
   </ul>
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=14" />
   </a>
