@@ -40,7 +40,6 @@
 <!--Software & Tools-->
 ### <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/Software_Tools.gif" width=5%></picture> Software & Tools
  
-
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,nodejs,matlab,figma,github,vscode&perline=14" />
@@ -48,16 +47,13 @@
 </p>
 
 <!--Operating Systems-->
-<div id="user-content-toc">
-  ### <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/OS.gif" width=5%></picture>Operating Systems
+### <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/OS.gif" width=5%></picture> Operating Systems
   
-
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 ## Connect With Me🤝
@@ -72,7 +68,7 @@
   &emsp;
  <a href="https://github.com/Jairogonza7"> <img img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
  </p>
-
+ 
  <br>
 
  ---
@@ -80,3 +76,4 @@
  <p align = "center">
 	<a href="https://github.com/jairogonza7/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+
