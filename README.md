@@ -38,7 +38,7 @@
 </p>
 
 <!--Software & Tools-->
-### <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/Programming_Languages.gif" width=5%></picture> Software & Tools
+### <picture><img src = "https://github.com/Jairogonza7/Jairogonza7/blob/main/images/Software_Tools.gif" width=5%></picture> Software & Tools
  
 
 <p align="center">
