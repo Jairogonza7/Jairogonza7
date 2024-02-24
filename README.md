@@ -88,7 +88,7 @@
  ---
 
  <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/jairogonza7/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 <!--
 **Jairogonza7/Jairogonza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
