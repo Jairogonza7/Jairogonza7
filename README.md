@@ -58,7 +58,7 @@
 <!-- Connect with me -->
 ## Connect With Me🤝
 <br>
-<p align="left">
+<p align="center">
   &emsp;
  <a href="mailto:jairomega19@gmail.com"> <img img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   &emsp;
