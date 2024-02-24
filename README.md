@@ -12,6 +12,8 @@
 <!--About Me-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
+<picture><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/></picture>
+
 - 🎓&nbsp;I’m currently studying `Computer engineering`  in `USAL`</a>
 
 - 🌱 &nbsp;I'm on track for learning more about `Artificial Intelligence` and `systems design`.
@@ -21,8 +23,6 @@
 - 🤓&nbsp;Always `learning new things`.
 
 - 📫&nbsp;How to reach me `jairomega19@gmail.com`
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <br><br>
 
