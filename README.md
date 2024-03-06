@@ -4,7 +4,7 @@
 <div id="user-content-toc">
   <ul align="left">
     <summary>
-      <h1 style="display: inline-block">Hi there, I'm Jairo</h1><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+      <h1 style="display: inline-block">Hi there, I'm Jairo</h1><img width="20px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
     </summary>
   </ul>
 </div>
