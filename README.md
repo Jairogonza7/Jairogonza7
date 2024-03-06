@@ -19,7 +19,7 @@
 
 - 🎓&nbsp;I’m currently studying `Computer engineering`  in `USAL`</a>
 
-- 🌱 &nbsp;I'm on track for learning more about `Artificial Intelligence` and `systems design`.
+- 🌱 &nbsp;I'm on track for learning more about `Software Development` and `Systems Design`.
 
 - 🤝&nbsp;I’m available for `freelancing`.
 
