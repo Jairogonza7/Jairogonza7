@@ -21,7 +21,7 @@
 
 - 🌱 &nbsp;I'm on track for learning more about `Artificial Intelligence` and `systems design`.
 
-- 🤝&nbsp;I’m available for freelancing.
+- 🤝&nbsp;I’m available for `freelancing`.
 
 - 🤓&nbsp;Always `learning new things`.
 
