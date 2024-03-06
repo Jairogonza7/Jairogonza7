@@ -2,9 +2,9 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Hi there, I'm Jairo</h1><img width="20px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+      <h1 style="display: inline-block">Hi there, I'm Jairo</h1><img width="35px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
     </summary>
   </ul>
 </div>
