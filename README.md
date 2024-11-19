@@ -17,7 +17,7 @@
 
 <picture><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/></picture>
 
-- 🎓&nbsp;I’m currently studying `Computer engineering`  in `USAL`</a>
+- 🎓&nbsp;I’m currently studying `Master of Software engineering`  in `University of Sevilla`</a>
 
 - 🌱 &nbsp;I'm on track for learning more about `Software Development` and `Systems Design`.
 
