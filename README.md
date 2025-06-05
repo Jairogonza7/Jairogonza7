@@ -17,15 +17,18 @@
 
 <picture><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/></picture>
 
-- 🎓&nbsp;I’m currently studying `Master of Software engineering`  in `University of Sevilla`</a>
+- 🎓&nbsp;I recently completed a `Master’s in Software Engineering` at the `University of Seville`, specializing in `Data`, `Cloud`, and `IT Management`.
 
-- 🌱 &nbsp;I'm on track for learning more about `Software Development` and `Systems Design`.
+- 📊&nbsp;Passionate about everything related to `Big Data`, `Machine Learning`, and `Artificial Intelligence`.
 
-- 🤝&nbsp;I’m available for `freelancing`.
+- ☁️&nbsp;Focused on building solutions that combine `Cloud Computing`, `Data Engineering`, and `Advanced Analytics`.
 
-- 🤓&nbsp;Always `learning new things`.
+- 🤝&nbsp;Open to opportunities as a `Data Engineer`, `Data Analyst`, or roles related to `AI` and `Cloud`.
 
-- 📫&nbsp;How to reach me `jairomega19@gmail.com`
+- 🤓&nbsp;Always eager to learn about `data pipelines`, `predictive models`, and `scalable systems`.
+
+- 📫&nbsp;Reach me at: `jairomega19@gmail.com`
+
 
 <br><br>
 
