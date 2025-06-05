@@ -26,7 +26,7 @@
 
 - 🤓&nbsp;Always eager to learn about `data pipelines`, `predictive models`, and `scalable systems`.
 
-- 📫&nbsp;Reach me at: `jairomega19@gmail.com`
+- 📫&nbsp;Reach me at: `jairogonher55@gmail.com`
 
 
 <br><br>
